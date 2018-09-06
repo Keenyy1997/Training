@@ -1,0 +1,16 @@
+.group{
+	width: 100%; 
+	text-align: center;
+}
+.group > input, .group > textarea{
+	border-radius: 10px;
+	width: 40%;
+	padding: 10px;
+}
+.group > button {
+	border-radius: 10px;
+	width: 30%;
+	padding: 10px;
+	background: blue;
+	color: white;
+}
